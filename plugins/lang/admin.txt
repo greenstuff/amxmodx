@@ -168,17 +168,17 @@ PRIV_SET = Etuoikeudet laitettu
 NO_ENTRY = Sinulla ei ole merkintaa palvelimella...
 
 [bg]
-LOADED_ADMIN = Nameren e edin administrator ot fila.
-LOADED_ADMINS = Namereni sa %d administratori ot fila
-SQL_CANT_CON = SQL gre6ka: nemoje da se cannectnete: '%s'
-SQL_CANT_LOAD_ADMINS = SQL gre6ka: nemoje da nameri administratori: '%s'
-NO_ADMINS = Nemoje da nameri administratori.
-SQL_LOADED_ADMIN = Nameren e edin administrator ot database
-SQL_LOADED_ADMINS = Namereni %d administratori ot database
-INV_PAS = Greshna Parola!
-PAS_ACC = Parolata e prieta
-PRIV_SET = Priviligiite sa nastroeni
-NO_ENTRY = Nqmate vhod kam servara...
+LOADED_ADMIN = Зареден е 1 админ от файла
+LOADED_ADMINS = Заредени са %d админи от файла
+SQL_CANT_CON = SQL грешка: не може да се свърже: '%s'
+SQL_CANT_LOAD_ADMINS = SQL грешка: не може да зареди админи: '%s'
+NO_ADMINS = Няма намерени админи.
+SQL_LOADED_ADMIN = Зареден е 1 админ от база-данни
+SQL_LOADED_ADMINS = Заредени са %d админи от база-данни
+INV_PAS = Грешна парола!
+PAS_ACC = Паролата е приета
+PRIV_SET = Привилегиите са установени
+NO_ENTRY = Нямате достъп в сървъра...
 
 [ro]
 LOADED_ADMIN = 1 administrator a fost incarcat din fisier
