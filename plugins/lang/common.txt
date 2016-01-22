@@ -285,26 +285,26 @@ ON = Paalla
 OFF = Poissa paalta
 
 [bg]
-BACK = Nazad
-EXIT = Izhot
-MORE = O6te
-NONE = nikolko
-ADMIN = ADMINISTRATOR
-PLAYER = Igra4
-ERROR = gre6ka
-YES = Da
-NO = Ne
-BAN = ban
-KICK = kick
-NO_ACC_COM = Nqmate dostap do tazi commanda
-USAGE = Ispolzvane
-MORE_CL_MATCHT = eto o6te igra4i koito otgovarqt na commandata
-CL_NOT_FOUND = Igra4 s tova ime ili userid ne e nameren
-CLIENT_IMM = Igra4a "%s" ima immunity
-CANT_PERF_DEAD = Tazi comanda nemoje da se izpolzva na umrql igra4 "%s"
-CANT_PERF_BOT = Tazi comanda nemoje da se izpolzva na bot "%s"
-ON = Vklu4eno
-OFF = Isklu4eno
+BACK = Назад
+EXIT = Изход
+MORE = Още
+NONE = Нищо
+ADMIN = АДМИН
+PLAYER = ИГРАЧ
+ERROR = грешка
+YES = Да
+NO = Не
+BAN = бан
+KICK = кик
+NO_ACC_COM = Нямаш достъп до тази команда
+USAGE = Използване
+MORE_CL_MATCHT = Има повече от един клиент който съвпада с вашия аргумент
+CL_NOT_FOUND = Клиент с това име или усерид не е намерен
+CLIENT_IMM = Клиента "%s" има имунитет
+CANT_PERF_DEAD = Тази команда не може да се използва на умрял клиент "%s"
+CANT_PERF_BOT = Тази команда не може да се използва на бот "%s"
+ON = Включен
+OFF = Изключен
 
 [ro]
 BACK = Inapoi
