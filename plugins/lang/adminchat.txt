@@ -168,17 +168,17 @@ COL_MAROON = viininpunainen
 PRINT_ALL = (KAIKKI) %s :   %s
 
 [bg]
-COL_WHITE = Bql
-COL_RED = 4erven
-COL_GREEN = zelen
-COL_BLUE = sin
-COL_YELLOW = jalt
-COL_MAGENTA = magenta
-COL_CYAN = cyan
-COL_ORANGE = orangev
-COL_OCEAN = okeanski
-COL_MAROON = maroon
-PRINT_ALL = (ALL) %s :   %s
+COL_WHITE = бял
+COL_RED = червен
+COL_GREEN = зелен
+COL_BLUE = син
+COL_YELLOW = жълт
+COL_MAGENTA = магента
+COL_CYAN = циан
+COL_ORANGE = оранжев
+COL_OCEAN = океански
+COL_MAROON = кестеняв
+PRINT_ALL = (ВСИЧКИ) %s :   %s
 
 [ro]
 COL_WHITE = alb
