@@ -38,7 +38,7 @@ STOP_FLOOD = Prestan floodovat!
 STOP_FLOOD = Lopeta floodiminen!
 
 [bg]
-STOP_FLOOD = Sprete da pretovarvate servara!
+STOP_FLOOD = Спрете да flood-ите сървъра!
 
 [ro]
 STOP_FLOOD = Nu mai flooda server-ul!
