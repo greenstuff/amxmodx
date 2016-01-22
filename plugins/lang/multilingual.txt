@@ -142,15 +142,15 @@ TYPE_LANGMENU = Kirjoita 'amx_langmenu' konsoliin nahdaksesi kielivalikon
 LANG_MENU_DISABLED = Kielivalikko poistettu kaytosta
 
 [bg]
-LANG_NOT_EXISTS = Nqma takav ezik
-PERSO_LANG = Li4ni Ezici
-LANG_MENU = Ezikovoto Menu
-SERVER_LANG = Server Ezik
-SAVE_LANG = Zapameti Ezik
-SET_LANG_SERVER = Ezika na servera e smenen na "%s"
-SET_LANG_USER = Tvoq ezik e smenen na "%s"
-TYPE_LANGMENU = Napi5i 'amx_langmenu' v consolata za da vidite menu kadeto mojete da si izberete ezik
-LANG_MENU_DISABLED = Ezikovoto menu e izklu4eno.
+LANG_NOT_EXISTS = Няма такъв език
+PERSO_LANG = Персонален Език
+LANG_MENU = Езици
+SERVER_LANG = Сървърен Език
+SAVE_LANG = Запамети Език
+SET_LANG_SERVER = Сървърния език е променен на "%s"
+SET_LANG_USER = Персоналния език е променен на "%s"
+TYPE_LANGMENU = Напишете 'amx_langmenu' в конзолата за промяна на език
+LANG_MENU_DISABLED = Промяната на език е изключена.
 
 [ro]
 LANG_NOT_EXISTS = Acest limbaj nu exista
