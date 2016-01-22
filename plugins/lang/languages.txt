@@ -52,7 +52,7 @@ LANG_NAME_NATIVE = Suomi
 
 [bg]
 LANG_NAME = Bulgarian
-LANG_NAME_NATIVE = Bulgarski
+LANG_NAME_NATIVE = Български
 
 [ro]
 LANG_NAME = Romanian
