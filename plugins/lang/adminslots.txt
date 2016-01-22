@@ -38,7 +38,7 @@ DROPPED_RES = Vyhozen, slot je rezervovan
 DROPPED_RES = Pudotettiin palvelimelta slotvarauksen takia (adminslot)
 
 [bg]
-DROPPED_RES = Izklu4en poneje mqstoto e rezervirano
+DROPPED_RES = Изхвърлен заради резервиран слот
 
 [ro]
 DROPPED_RES = Ai primit kick pentru rezervare slot.
