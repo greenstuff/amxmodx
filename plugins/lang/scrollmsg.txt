@@ -64,9 +64,9 @@ MSG_FREQ = Vierivan tekstin taajuus on: %d:%02d minuuttia
 MSG_DISABLED = Vieriva teksti poissa kaytosta
 
 [bg]
-MIN_FREQ = Minimalnoto povtarq6to vreme za tova saob6tenie e %d secundi
-MSG_FREQ = Scrolling saob6tenieto se pokazva vseki: %d:%02d minuti
-MSG_DISABLED = Scrolling saob6tenieto e isklu4eno
+MIN_FREQ = Минимална честота за това съобщение е %d секунди
+MSG_FREQ = Честота на показване на превъртащо съобщение: %d:%02d минути
+MSG_DISABLED = Превъртащото съобщение е изкючено
 
 [ro]
 MIN_FREQ = Frecventa minima pentru acest mesaj este %d secunde
