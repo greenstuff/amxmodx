@@ -116,13 +116,13 @@ SECOND = sekunti
 SECONDS = sekuntia
 
 [bg]
-THE_TIME = 4asa
-TIME_LEFT = Ostanalo Vreme
-NO_T_LIMIT = Nqma limit na vremeto
-MINUTE = minuta
-MINUTES = minuti
-SECOND = secunda
-SECONDS = secundi
+THE_TIME = Час
+TIME_LEFT = Останало Време
+NO_T_LIMIT = Няма Лимит На Времето
+MINUTE = минута
+MINUTES = минути
+SECOND = секунда
+SECONDS = секунди
 
 [ro]
 THE_TIME = Ora
