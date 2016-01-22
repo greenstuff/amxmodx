@@ -90,11 +90,11 @@ CUR_LOC = Nykyinen sijainti
 SAVE_LOC = Tallenna sijainti
 
 [bg]
-ADMIN_TELEPORT_1 = ADMININISTRATOR: teleportira %s
-ADMIN_TELEPORT_2 = ADMINISTRATOR %s: teleportira %s
-TELE_MENU = Teleport Menu
-CUR_LOC = Mestopolojenie
-SAVE_LOC = Zapazi mestopolojenieto
+ADMIN_TELEPORT_1 = АДМИН: телепортира %s
+ADMIN_TELEPORT_2 = АДМИН %s: телепортира %s
+TELE_MENU = Телепортиране
+CUR_LOC = Текущо местоположение
+SAVE_LOC = Запазване на местоположението
 
 [ro]
 ADMIN_TELEPORT_1 = ADMIN: teleportare %s
