@@ -116,13 +116,13 @@ TIME_INFO_1 = Aikaa jaljella: %d:%02d minuuttia. Seuraava mappi: %s
 TIME_INFO_2 = Ei aikarajaa. Seuraava mappi: %s
 
 [bg]
-HELP_COMS = AMX Mod X Help: Comandi
-HELP_ENTRIES = Vkarani %d - %d ot %d
-HELP_USE_MORE = Izpolzvaite 'amx_help %d' za pove4e
-HELP_USE_BEGIN = izpolzvaite 'amx_help 1' za na4alo
-TYPE_HELP = napi6ete 'amx_help' v consolata za da vidite pove4e comandi
-TIME_INFO_1 = Ostava6to vreme: %d:%02d min. Sledva6tata karta: %s
-TIME_INFO_2 = Nqma limit na vremeto. Sledva6tata karta: %s
+HELP_COMS = AMX Mod X Помощ: Команди
+HELP_ENTRIES = Записи %d - %d от %d
+HELP_USE_MORE = Използвай 'amx_help %d' за повече
+HELP_USE_BEGIN = Използвай 'amx_help 1' за начало
+TYPE_HELP = напиши 'amx_help' в конзолата за да видиш повече команди
+TIME_INFO_1 = Останало време: %d:%02d мин. Следваща карта: %s
+TIME_INFO_2 = Няма лимит на времето. Следваща карта: %s
 
 [ro]
 HELP_COMS = Ajutor AMX Mod X: Comenzi
