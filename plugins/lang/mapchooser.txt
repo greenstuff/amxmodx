@@ -116,13 +116,13 @@ EXTED_MAP = Jatka mappia %s
 TIME_CHOOSE = On aika valita seruaava mappi...
 
 [bg]
-CHO_FIN_EXT = Izbiraneto priklu4i. Nastoq6tata karta 6te e odaljena za o6te %.0f minuti
-CHO_FIN_NEXT = Izbiraneto priklu4i. Sledva6tata karta 6te e %s
-CHOSE_EXT = %s izbra odaljenie na nastoq6tata karta
-X_CHOSE_X = %s izbra %s
-CHOOSE_NEXTM = AMX Izberete sledva6tata karta
-EXTED_MAP = Odalji kartata %s
-TIME_CHOOSE = Vreme e da se izbere sledva6tata karta...
+CHO_FIN_EXT = Избирането приключи. Текущата карта ще бъде удължена още %.0f минути
+CHO_FIN_NEXT = Избирането приключи. Следващата карта ще бъде %s
+CHOSE_EXT = %s избра удължаване на текущата карта
+X_CHOSE_X = %s избра %s
+CHOOSE_NEXTM = AMX Изберете следващата карта
+EXTED_MAP = Удължи карта %s
+TIME_CHOOSE = Време е за избиране на следващата карта...
 
 [ro]
 CHO_FIN_EXT = Votarea s-a incheiat. Harta actuala va fi prelungita %.0f minute
