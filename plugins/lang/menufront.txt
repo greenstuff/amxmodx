@@ -233,22 +233,22 @@ RES_WEAP = Kiella aseita
 TELE_PLAYER = Teleporttaa pelaaja
 
 [bg]
-KICK_PLAYER = Kickni Igra4
-BAN_PLAYER = Banni Igra4
-SLAP_SLAY = Slapni/Slayni Igra4
-TEAM_PLAYER = Smeni Otbora na Igra4 ^n
-CHANGEL = Smeni karta
-VOTE_MAPS = Glasuvai za karta ^n
-SPECH_STUFF = Ne6ta za govorene
-CLIENT_COM = klient Comandi
-SERVER_COM = Server Comandi
-CVARS_SET = Nastroiki za Cvars
-CONFIG = Configuracia
-LANG_SET = Ezikovi nastroiki
-STATS_SET = Nastroiki za Statistikite ^n
-PAUSE_PLUG = Pause Plugini
-RES_WEAP = Blokirai Orajia
-TELE_PLAYER = Teleportirai Igra4i
+KICK_PLAYER = Кикване на играч
+BAN_PLAYER = Банване на играч
+SLAP_SLAY = Слап/Слай-ване на играч
+TEAM_PLAYER = Промяна на тийма на играч ^n
+CHANGEL = Промяна на карта
+VOTE_MAPS = Гласуване за карта ^n
+SPECH_STUFF = Звуци
+CLIENT_COM = Клиентски Команди
+SERVER_COM = Сървърни Команди
+CVARS_SET = Настройване на CVAR-ове
+CONFIG = Конфигурация
+LANG_SET = Настройки на Езици
+STATS_SET = Настройки на Статистики ^n
+PAUSE_PLUG = Паузиране на Плъгини
+RES_WEAP = Ограничаване на Оръжия
+TELE_PLAYER = Телепортиране на Играч
 
 [ro]
 KICK_PLAYER = Kick Jucator
